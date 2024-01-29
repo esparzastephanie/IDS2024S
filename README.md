@@ -8,5 +8,6 @@
 **Level:** Undergraduate | Freshman (1st year)  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024](https://www.cdslab.org/IDS2024S/)  
-**Photo:** ![A photo of Stephanie](https://www.rawpixel.com/image/6284655/png-sticker-public-domain#eyJrZXlzIjoiY2F0Iiwic29ydGVkS2V5cyI6ImNhdCJ9)  
+**Photo:**  
+![A photo of Stephanie](dandelions.jpeg)  
 
