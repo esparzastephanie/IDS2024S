@@ -24,10 +24,10 @@ This directory contains all my exam submissions, each of which is a folder prope
 
 
 >I have not failed, I have just found 10,000 ways that won't work.  
->Thomas Edison  
+>Thomas A. Edison  
 
 For questions and troubleshooting, contact:  
-Amir Shamoradi  
-shahmoradi@utexas.edu  
-Assistant Professor of Data Science  
+Stephanie Esparza  
+sxe2975@mavs.uta.edu  
+Data Science Major  
 University of Texas at Arlington  
