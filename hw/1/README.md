@@ -6,3 +6,5 @@
     c.  git add --all: Add multiple modified or new files to the staging area.  
     d.  git commit -m"latest build": Commit the staged file to the repository with the message "latest build".  
     e. git push --all: Push all your commits from the local repository to the remote repository.
+
+Extra points: [esparzastephanie.github.io](https://esparzastephanie.github.io/)
