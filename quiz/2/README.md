@@ -21,6 +21,12 @@
 15. ENIAC, Electronic Numerical Integrator And Computer
 16. Python
 17. FORTRAN
-18. 
+18. + Must contain a main procedure that determines the control flow for the program
+    + Must contain a set of functions to perform certain tasks in program execution
+    + **
+19. Calculator
+20. Fortran, Cobol, C++, Java, Python
+21. a)
+    b) 
 
 
