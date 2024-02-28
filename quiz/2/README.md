@@ -5,7 +5,7 @@
 3. The slowest are disks.
 4. Disk, DRAM, L3 Cache, L2 Cache, L1 Cache, Registers.
 5. bits
-6. Binary numbers are easy to represetn electronically and virtually anything represented as a binary number can be stored in computer memory and processed.
+6. Binary numbers are easy to represent electronically and virtually anything represented as a binary number can be stored in computer memory and processed.
 7. less than a nanosecond
 8. 1940s
 9. 1940s
