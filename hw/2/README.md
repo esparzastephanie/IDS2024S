@@ -1,6 +1,5 @@
 1. a)  
-   b)  
-   c)  
+   b)  FORTRAN (1954), lisp(1958),  Algol 58 (1958), basic (1964), C(1971), sh(197), C++ (1983), Java (1991), Python (1991), Fortran 90(1991), JavaScript(1995), C# (2000).
 
 2. ENIAC stands for Electronic Numerical Integrator And Computer.  
 3. Integers are used because all computer hardware runs on binary numbers (or bits), 0 and 1.  
@@ -29,6 +28,16 @@
 21. Fetch, decode, execute.  
 22. Yes, because modern cpu's with lower cores may run processes more efficiently.  
 23. Memory access, because the memory can only go so fast based on the number of cores.**
-24. **
-25. 
+24. Dennard Scaling (MOSFET Scaling) implies that the more transistors put on an IC, the faster the CPU will be. Moore's law entails Gordon Moore's prediction that transistor counts in microprocessors would double every two years.
+25. a) 64 grains  
+    b) 2080 grains  
+    c)  0.3 pounds of rice  
+26. a) 2^63 grains of rice  
+    b) aa  
+    c) 1.32 X 10^15  
+    d) ~659 years  
+
+Extra points:  
+1. 
+
 
