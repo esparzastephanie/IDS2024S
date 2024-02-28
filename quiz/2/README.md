@@ -1,6 +1,6 @@
 ## Quiz 2 Responses
 
-1. Fastest component in are the registers.  
+1. Fastest component in computer memory are the registers.  
 2. The CPU can predict and prefetch the data from the slower/larger memory levels to the higher levels for subssequent usage by the CPU for computations.
 3. The slowest are disks.
 4. Disk, DRAM, L3 Cache, L2 Cache, L1 Cache, Registers.
