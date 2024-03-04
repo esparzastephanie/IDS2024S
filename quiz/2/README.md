@@ -42,6 +42,7 @@
 27. An ancestor of Python is ABC. An ancestor of Matlab is Java.
 28. A logarithm can be used to find the power value of a number, and allows you to use in in several ways.
 29. You could easily add all the predicted numbers individually, but we could use arithmetics to find the answer. Our answer would be 1683.
-30. HDD. Magnetic tapes could last no more than a year. HDD could last 2+ years.
+30. HDD. Magnetic tapes could last no more than a year. HDD could last 2+ years.  
+    **Correct Answer:** Magnetic tapes 100+ years. HDD 10+ years
 31. Compass
 
