@@ -10,8 +10,8 @@
 
 
 12. a) bits  
-    b)  This is because it is binary, and therefore can be interpreted and used to represent information quite easily in any situation.
+    b)  This is because it is binary, and therefore can be interpreted and used to represent information quite easily in any situation.  
     c)
-    1. 1  
-    2. 2  
-    3. 4  
+    1. 2 
+    2. 4  
+    3. 8  
