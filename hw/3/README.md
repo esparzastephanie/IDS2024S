@@ -10,7 +10,7 @@
 
 
 12. a) bits  
-    b)  
+    b)  This is because it is binary, and therefore can be interpreted and used to represent information quite easily in any situation.
     c)
     1. 1  
     2. 2  
